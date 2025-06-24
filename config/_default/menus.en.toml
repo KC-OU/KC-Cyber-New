@@ -1,0 +1,78 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+# 
+# The simplest menu configuration is to provide:
+#   name = The name to be displayed for this menu link
+#   pageRef = The identifier of the page or section to link to
+#
+# By default the menu is ordered alphabetically. This can be
+# overridden by providing a weight value. The menu will then be
+# ordered by weight from lowest to highest.
+
+[[main]]
+name = "Posts"
+pageRef = "posts"
+weight = 10
+# Boxes and Sites
+
+[[main]]
+pre = "briefcase"
+name = "Categories"
+weight = 10
+url = "/categories"
+
+[[main]]
+name = "TryHackMe"
+parent = "Categories"
+weight = 12
+url = "/categories/TryHackMe"
+
+[[main]]
+name = "Hack the Box"
+parent = "Categories"
+weight = 12
+url = "/categories/HacktheBox"
+
+[[main]]
+name = "Other"
+parent = "Categories"
+weight = 12
+url = "/categories/Other"
+
+# Certs 
+[[main]]
+pre = "briefcase"
+name = "Certifications"
+weight = 10
+url = "/Certifications"
+
+[[main]]
+name = "TryHackMe - PT1"
+parent = "Certifications"
+weight = 12
+url = "/Certifications/PT1"
+
+
+[[main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/KC-OU"
+  weight = 400
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+ [[footer]]
+   name = "Authors"
+   pageRef = "tags"
+   weight = 10
+ [[footer]]
+   name = "Tags"
+   pageRef = "tags"
+   weight = "10"
+ [[footer]]
+   name = "Categories"
+   pageRef = "categories"
+   weight = 20

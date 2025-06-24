@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CVE on Cyber Security Learning</title>
+    <link>//localhost:1313/categories/cve/</link>
+    <description>Recent content in CVE on Cyber Security Learning</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Sun, 27 Apr 2025 19:13:28 +0100</lastBuildDate><atom:link href="//localhost:1313/categories/cve/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Papercut (CVE:2023-27350)</title>
+      <link>//localhost:1313/tryhackme/cve/papercut/</link>
+      <pubDate>Sun, 27 Apr 2025 19:13:28 +0100</pubDate>
+      
+      <guid>//localhost:1313/tryhackme/cve/papercut/</guid>
+      <description>This vulnerability allows remote attackers to bypass authentication on affected installations of PaperCut NG 22.0.5 (Build 63914). Authentication is not required to exploit this vulnerability. The specific flaw exists within the SetupCompleted class. The issue results from improper access control. An attacker can leverage this vulnerability to bypass authentication and execute arbitrary code in the context of SYSTEM. Was ZDI-CAN-18987.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
