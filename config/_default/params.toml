@@ -9,12 +9,15 @@ colorScheme = "blowfish"
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = true
 
+
+
+
 enableSearch = true
 enableCodeCopy = false
 
 replyByEmail = false
 
-mainSections = ["posts"]
+mainSections = ["Posts","TryHackMe","HacktheBox","Other"]
 # robots = ""
 
 disableImageOptimization = false
@@ -42,11 +45,11 @@ smartTOCHideUnfocusedChildren = false
   layout = "hero" # valid options: page, profile, hero, card, background, custom
   homepageImage = "/img/iceland.jpg" # used in: hero, and card
   showRecent = true
-  showRecentItems = 5
+  showRecentItems = 6
   showMoreLink = false
-  showMoreLinkDest = "/posts/"
+  showMoreLinkDest = "/categories/posts/"
   cardView = true
-  cardViewScreenWidth = false
+  cardViewScreenWidth = true
   layoutBackgroundBlur = false # only used when layout equals background
 
 [article]

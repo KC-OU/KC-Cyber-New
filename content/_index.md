@@ -3,9 +3,6 @@ title: "Welcome to KC Pentesting:tada:"
 description: "This site is for KC Pentesting Notes and more"
 ---
 
-This is my Pentesting, Board for completed Box and Learning [Trello](https://trello.com/b/IrxuwF0V/kc-pentest-learning)
-
-Please see this github repo for Learning Mindmap [Mindmap](https://github.com/Ignitetechnologies/Mindmap) 
 
 <!--<div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
   <span class="flex items-center ltr:pr-3 rtl:pl-3 text-primary-400">

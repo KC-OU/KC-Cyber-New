@@ -13,14 +13,14 @@
 [[main]]
 name = "Posts"
 pageRef = "posts"
-weight = 10
+weight = 14
 # Boxes and Sites
 
 [[main]]
 pre = "briefcase"
 name = "Categories"
-weight = 10
-url = "/categories"
+weight = 11
+url = "/categories/"
 
 [[main]]
 name = "TryHackMe"
@@ -39,20 +39,6 @@ name = "Other"
 parent = "Categories"
 weight = 12
 url = "/categories/Other"
-
-# Certs 
-[[main]]
-pre = "briefcase"
-name = "Certifications"
-weight = 10
-url = "/Certifications"
-
-[[main]]
-name = "TryHackMe - PT1"
-parent = "Certifications"
-weight = 12
-url = "/Certifications/PT1"
-
 
 [[main]]
   identifier = "github"

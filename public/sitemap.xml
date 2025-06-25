@@ -3,13 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost/tryhackme/</loc>
-    <lastmod>2025-04-27T19:13:28+01:00</lastmod>
+    <loc>http://localhost/categories/</loc>
+    <lastmod>2025-05-29T10:42:17-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost/certifications/</loc>
+    <lastmod>2025-05-29T10:42:17-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost/categories/owasp/</loc>
+    <lastmod>2025-05-29T10:42:17-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost/tags/owasp/</loc>
+    <lastmod>2025-05-29T10:42:17-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost/certifications/pt1/owasp_top_10_2021/room-notes/</loc>
+    <lastmod>2025-05-29T10:42:17-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost/categories/posts/</loc>
+    <lastmod>2025-05-29T10:42:17-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost/tags/pt1/</loc>
+    <lastmod>2025-05-29T10:42:17-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost/tags/</loc>
+    <lastmod>2025-05-29T10:42:17-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost/categories/tryhackme/</loc>
+    <lastmod>2025-05-29T10:42:17-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost/</loc>
+    <lastmod>2025-05-29T10:42:17-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost/tryhackme/</loc>
     <lastmod>2025-04-27T19:13:28+01:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -20,17 +74,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost/categories/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost/series/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost/tags/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
